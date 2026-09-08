@@ -1,14 +1,16 @@
 # Robert Martin
 
-Senior Director of Infrastructure & Cybersecurity. 20+ years in networking, datacenters, and security. My core skill isn't any single tool. It's making the call under pressure and building a team that can execute on it.
+Senior Director of Infrastructure & Cybersecurity, 20+ years running networks, datacenters, and security programs at scale. I don't lead from a slide deck. Every system my team runs, I can still operate myself, and that's the actual reason my decisions hold up once a real incident hits instead of just sounding good in a planning meeting.
+
+The pattern across my career is the same at every level: learn the work well enough to do it, build the team that can do it without me in the room, and make the hard call early, before the crisis forces a worse one. That's what separates a manager from a leader people actually trust under pressure.
 
 ## What I lead
 
-I run infrastructure and security for a 41-site, 3-state K-12 organization on a $2.5M budget, entirely remote. I've grown and developed the engineering team over that time, not just staffed it.
+I run infrastructure and security for a 41-site, 3-state K-12 organization on a $2.5M budget, entirely remote. I've grown and developed the engineering team over that time, not just staffed it, and I still know every role on that team well enough to step into it.
 
 The decisions that mattered most:
 
-- **Built layered ransomware defense before we needed it.** On-prem, cloud, and a vaulted cold snapshot, kept separate on purpose. When a live attack hit, that separation is why we recovered in 3 days with zero data loss and no ransom paid. The decision was made a year earlier, not during the incident.
+- **Built layered ransomware defense in my first year on the job, before the organization had ever been tested.** On-prem, cloud, and a vaulted cold snapshot, kept separate on purpose. This wasn't a mature program I inherited or a policy I added years into the role, it was one of the first calls I made walking in the door. When a live attack hit later, that early separation is why we recovered in 3 days with zero data loss and no ransom paid. The team executed it because I'd built it with them, not around them.
 - **Built the cybersecurity program from nothing.** Cortex XDR, Okta identity, incident response planning. All stood up from a blank slate, not inherited.
 - **Chose redundancy at every layer, not just the obvious one.** Circuit, power, core, and access. 99.999%+ uptime across 41 sites comes from that discipline, not from any one piece of hardware.
 - **Built agentic AI into daily operations instead of buying a vendor platform.** Network monitoring, ticketing, and identity management wired into an AI layer that does real work, in production, not a demo. I wrote a book about how that actually went, including the parts that broke.
@@ -35,6 +37,7 @@ The repos below are rebuilt from scratch with sample data. No real hostnames, IP
 - Sr. Director of Network Engineering & Infrastructure, Achievement First (2019-present)
 - Director of Network Operations, M.I. Services Inc.
 - Network Engineer III, ALLO Communications, carrier transport, voice, and access network builds
+- Harvard CS50: Introduction to Artificial Intelligence with Python, [certificate](https://cs50.harvard.edu/certificates/690cb5b9-c4d5-4703-9026-e452e6bb4587)
 - Metaswitch MPCT, Adtran ATSA, Cisco Network Academy
 
 [linkedin.com/in/robertjemartin](https://linkedin.com/in/robertjemartin)
