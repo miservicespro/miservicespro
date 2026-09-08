@@ -37,7 +37,7 @@ The repos below are rebuilt from scratch with sample data. No real hostnames, IP
 - Sr. Director of Network Engineering & Infrastructure, Achievement First (2019-present)
 - Director of Network Operations, M.I. Services Inc.
 - Network Engineer III, ALLO Communications, carrier transport, voice, and access network builds
-- Harvard CS50: Introduction to Artificial Intelligence with Python, [certificate](https://cs50.harvard.edu/certificates/690cb5b9-c4d5-4703-9026-e452e6bb4587)
+- Harvard CS50AI, [certificate](https://cs50.harvard.edu/certificates/690cb5b9-c4d5-4703-9026-e452e6bb4587)
 - Metaswitch MPCT, Adtran ATSA, Cisco Network Academy
 
 [linkedin.com/in/robertjemartin](https://linkedin.com/in/robertjemartin)
