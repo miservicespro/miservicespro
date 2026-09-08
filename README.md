@@ -30,7 +30,8 @@ The repos below are rebuilt from scratch with sample data. No real hostnames, IP
 - **[network-iac-lab](https://github.com/miservicespro/network-iac-lab)**: Terraform and Ansible for a simulated multi-site network. VLANs, redundancy, SD-WAN concepts, modeled on running a real 41-site footprint.
 - **[cs50-ai-projects](https://github.com/miservicespro/cs50-ai-projects)**: concept write-ups backing up the CS50AI credential, tied to the systems I actually build.
 - **[stratagus-wargus-contributions](https://github.com/miservicespro/stratagus-wargus-contributions)**: engine-level C++ and Lua work on the open-source Stratagus RTS engine, plus a debugging investigation that traced a crash back to a specific upstream rendering path.
-- **[retrocade-arcade-build](https://github.com/miservicespro/retrocade-arcade-build)**: systems administration and troubleshooting documentation for a custom arcade cabinet build.
+- **[retrocade-arcade-build](https://github.com/miservicespro/retrocade-arcade-build)**: systems administration documentation for a custom arcade cabinet build, and a general guide to replicating it on a spare box.
+- **[severed-chains-cabinet-setup](https://github.com/miservicespro/severed-chains-cabinet-setup)**: integrating Severed Chains, the open-source Legend of Dragoon PC port, into an EmulationStation-style cabinet, a gap most front-end guides don't cover.
 
 ## Background
 
