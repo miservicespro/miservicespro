@@ -25,8 +25,7 @@ The repos below are rebuilt from scratch with sample data. No real hostnames, IP
 
 ## Repos
 
-- **[agentic-infra-ops-toolkit](https://github.com/miservicespro/agentic-infra-ops-toolkit)**: the pattern from the book. An AI layer wired into network monitoring, ticketing, and identity systems through structured tool calls.
-- **[netdiag-mcp](https://github.com/miservicespro/netdiag-mcp)**: a working MCP server for network diagnostics, tested, with a real root-cause reasoning tool, not just data lookups.
+- **[netdiag-mcp](https://github.com/miservicespro/netdiag-mcp)**: the pattern from the book, now as a real MCP server. 20 tools across ten infrastructure and security domains, every one gated by real cryptographic identity, access control, rate limiting, a tamper-evident audit log, and prompt injection defense, not a demo script routing by keyword.
 - **[network-iac-lab](https://github.com/miservicespro/network-iac-lab)**: Terraform and Ansible for a simulated multi-site network. VLANs, redundancy, SD-WAN concepts, modeled on running a real 41-site footprint.
 - **[cs50-ai-projects](https://github.com/miservicespro/cs50-ai-projects)**: concept write-ups backing up the CS50AI credential, tied to the systems I actually build.
 - **[stratagus-wargus-contributions](https://github.com/miservicespro/stratagus-wargus-contributions)**: engine-level C++ and Lua work on the open-source Stratagus RTS engine, plus a debugging investigation that traced a crash back to a specific upstream rendering path.
